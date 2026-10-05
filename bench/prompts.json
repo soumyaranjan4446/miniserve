@@ -1,0 +1,7 @@
+{
+  "short": ["Explain KV caching.", "What is RoPE?", "Explain GQA."],
+  "medium": [
+    "Explain how transformer inference changes when a KV cache is introduced.",
+    "Compare static batching and continuous batching for autoregressive decoding."
+  ]
+}
